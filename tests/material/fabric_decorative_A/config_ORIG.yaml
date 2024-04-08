@@ -1,0 +1,14 @@
+metadata:
+  artist: Substance
+
+details:
+  name: Fabric_Decorative_A
+  category: Fabric
+  shader_type: M_Opaque
+  width: 0.25
+  height: 0.25
+  normal_strength: 1.0
+
+  basecolor: decorative_fabric_A_BaseColor.png
+  mra: decorative_fabric_A_MRA.png
+  normal: decorative_fabric_A_Normal.png

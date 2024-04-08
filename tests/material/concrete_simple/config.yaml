@@ -1,0 +1,14 @@
+metadata:
+  artist: Substance
+
+details:
+  name: Concrete_Simple
+  category: Concrete
+  shader_type: M_Opaque
+  width: 1.0
+  height: 1.0
+  normal_strength: 1.0
+
+  basecolor: concrete_simple_BaseColor.png
+  mra: concrete_simple_MRA.png
+  normal: concrete_simple_Normal.png

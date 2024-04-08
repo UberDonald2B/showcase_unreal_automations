@@ -1,0 +1,14 @@
+metadata:
+  artist: Substance
+
+details:
+  name: Fabric_Checkered_Buffalo
+  category: Fabric
+  shader_type: M_Opaque
+  width: 0.5
+  height: 0.5
+  normal_strength: 1.0
+
+  basecolor: buffalo_checkered_fabric_BaseColor.png
+  mra: buffalo_checkered_fabric_MRA.png
+  normal: buffalo_checkered_fabric_Normal.png

@@ -1,0 +1,13 @@
+---
+metadata:
+  artist: Troy
+
+details:
+  meshes:
+    - Neva_Sectional_L_Couch.fbx
+  shaders:
+    - '/Game/AssetLib/Materials/Fabric/MI_Vintage_2.MI_Vintage_2'
+    - '/Game/AssetLib/Materials/Fabric/MI_heather_fabric_A.MI_heather_fabric_A'
+    - '/Game/AssetLib/Materials/Fabric/MI_heather_fabric_A.MI_heather_fabric_A'
+    - '/Game/AssetLib/Materials/Fabric/MI_decorative_fabric_A.MI_decorative_fabric_A'
+  trace_type: floor

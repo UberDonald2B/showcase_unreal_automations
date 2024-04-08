@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "python",
+    "ue-python.remote.multicastBindAddress": "0.0.0.0"
+}

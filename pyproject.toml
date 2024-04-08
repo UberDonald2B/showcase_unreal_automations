@@ -1,0 +1,11 @@
+[project]
+name = "ue_asset_tools"
+authors = [
+    {name = "Troy Buckley", email = "troy@stageglass.com"},
+]
+description = "My package description"
+readme = "README.md"
+requires-python = ">=3.9.7"
+
+[tool.black]
+line-length = 120

@@ -1,0 +1,27 @@
+---
+metadata:
+  artist: Troy
+
+details:
+  meshes:
+    - Neva_Sectional_L_Couch.fbx
+    - Neva_Sectional_L_Couch_Glass.fbx
+  id: Neva_Sectional_L_Couch
+  collection_id: StageGlass
+  manufacturer: StageGlass
+  reference: https://www.stageglass.com
+  display_name: Neva Sectional L Shaped Couch
+  description: This is a sectional couch in the shape of an L.
+  asset_type: sofa
+  trace_type: furniture
+  tags:
+    - office
+    - desk
+    - computer desk
+    - rectangular
+    - writing desk
+    - drawers
+
+bp_variables:
+  bp_type: furniture
+  trace_type: Floor Object
